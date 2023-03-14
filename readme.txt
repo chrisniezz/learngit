@@ -1,2 +1,2 @@
 git is a distributed vision control stystem
-git is a free software!
+git is a free software contributed under the GPL!
